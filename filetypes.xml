@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="NIKITAAAA" type="PLAIN_TEXT" />
+      <mapping ext="tif​" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
